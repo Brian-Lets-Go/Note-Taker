@@ -15,7 +15,7 @@
   ## [Description](#table-of-contents)
   This project allows you to record notes and store them on a server
 
-  ![App Screenshot](public\assets\screenshot.JPG)
+  ![App Screenshot](.\public\assets\screenshot.JPG)
 
   Link to deployes app [HERE](https://fathomless-plains-09442.herokuapp.com/notes)
 
