@@ -15,6 +15,10 @@
   ## [Description](#table-of-contents)
   This project allows you to record notes and store them on a server
 
+  ![App Screenshot](public\assets\screenshot.JPG)
+
+  Link to deployes app [HERE](https://fathomless-plains-09442.herokuapp.com/notes)
+
   ## [Installation](#table-of-contents)
   This app uses the express package and npm install should be ran once the repo is cloned
 
