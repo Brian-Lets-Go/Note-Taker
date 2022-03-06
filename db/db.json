@@ -1,14 +1,9 @@
 {
   "notes": [
     {
-      "title": "Note Taker App",
-      "text": "This application allows you to take notes. You can create a new note by clicking the pencil, save a note by clicking the save icon and delete a note by clicking the delete icon.",
+      "title": "Note Taker Instructions",
+      "text": "You can create a new note by clicking the plus sign, save a note by clicking the save icon and delete a note by clicking the delete icon.",
       "id": "0"
-    },
-    {
-      "title": "Note Taker App",
-      "text": "This application allows you to take notes. You can create a new note by clicking the pencil, save a note by clicking the save icon and delete a note by clicking the delete icon.",
-      "id": "2"
     }
   ]
 }
