@@ -1,3 +1,6 @@
-const router = require("express").Router();
+// const router = require('express').Router();
+// const notes = require('./notes')
 
-module.exports = router;
+// router.use(notes);
+
+// module.exports = router;
